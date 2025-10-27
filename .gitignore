@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# TensorFlow specific
+*.h5
+*.keras
+*.pb
